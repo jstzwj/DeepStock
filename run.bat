@@ -1,0 +1,1 @@
+python web/digitfinance/manage.py runserver
